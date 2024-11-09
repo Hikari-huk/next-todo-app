@@ -24,7 +24,7 @@ function NavList() {
     },
     {
       id: 3,
-      label: "All Tasks",
+      label: "Expired Tasks",
       link: "/expired",
       icon: <FaRegClock className="size-5" />,
     },
